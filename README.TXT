@@ -19,3 +19,8 @@ git reset --soft (soft volta com a possibilidade de voltar os arquivos ja hard a
 ex: 689e5297dacbb8cf0d6b5272fdb298e62a58112b
 
 comando completo:git reset --soft 689e5297dacbb8cf0d6b5272fdb298e62a58112b
+
+o comando git branch lista qual o branch atual.
+criar um novo branch
+git branch "criar novo branch"
+mudar para outro branch: git checkout teste (nome do branch destino)
