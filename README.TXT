@@ -12,3 +12,5 @@ preparar novos arquivos e mudanças feitas em arquivos no git: git add -A
 
 enviar os dados prparados para o git com comando -A incluido:
 git commit -am "coloca os comentarios entre aspas duplas"
+
+aqui vou usar o reset
