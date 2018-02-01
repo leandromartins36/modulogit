@@ -23,7 +23,8 @@ comando completo:git reset --soft 689e5297dacbb8cf0d6b5272fdb298e62a58112b
 o comando git branch lista qual o branch atual.
 criar um novo branch
 git branch "criar novo branch"
-mudar para outro branch: git checkout teste (nome do branch destino)
+mudar para outro branch: git checkout teste (nome do branch destino) e tambem
+serve para voltar a versão de um arquivo especifico: git checkout HEAD --(NOME DO ARQUIVO SEM PARENTESES)
 
 verifica o que esta no git em cada arquivo mostrar as alterações: git diff
 e com este comando ve somente o nome dos arquivos modificados: git diff --name-only
