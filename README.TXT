@@ -45,3 +45,7 @@ git push origin master
 
 quando tiver um novo arquivo para ser endiado ao repositorio local deve usar o comando:
 git add -A
+
+com o comando .gitignore criando um arquivo com esse nome podemos salvar dentro 
+dele os nomes dos arquivos que nao queremos que apareça no github pode ser usado para
+arquivos ou pastas 
