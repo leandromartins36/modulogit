@@ -24,7 +24,8 @@ o comando git branch lista qual o branch atual.
 criar um novo branch
 git branch "criar novo branch"
 mudar para outro branch: git checkout teste (nome do branch destino) e tambem
-serve para voltar a versão de um arquivo especifico: git checkout HEAD --(NOME DO ARQUIVO SEM PARENTESES)
+serve para voltar a versão de um arquivo especifico:
+ git checkout HEAD --(NOME DO ARQUIVO SEM PARENTESES)
 
 verifica o que esta no git em cada arquivo mostrar as alterações: git diff
 e com este comando ve somente o nome dos arquivos modificados: git diff --name-only
