@@ -29,3 +29,8 @@ serve para voltar a versão de um arquivo especifico:
 
 verifica o que esta no git em cada arquivo mostrar as alterações: git diff
 e com este comando ve somente o nome dos arquivos modificados: git diff --name-only
+
+enviando arquivo para o repositorio no site do GIT atraves do tutorial
+
+comando para gerar a chave que é usada no site do github para envio dos arquivos 
+no repositorio: ssh-keygen -t  rsa -b4096 -C "leoinfosiste@yahoo.com.br"
