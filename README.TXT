@@ -49,3 +49,10 @@ git add -A
 com o comando .gitignore criando um arquivo com esse nome podemos salvar dentro 
 dele os nomes dos arquivos que nao queremos que apareça no github pode ser usado para
 arquivos ou pastas 
+como apagar os branch do github remoto (site) apos enviar o branch com o comando 
+git push origin nome do branch, usa-se o comando: git push origin : nome do branch
+com esse comando consegue apagar tambem arquivos ou pastas.
+e para apagar local deve estar com branch master e com o comando: 
+git branch -D nome do branch
+
+
