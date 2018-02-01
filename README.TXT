@@ -56,3 +56,9 @@ e para apagar local deve estar com branch master e com o comando:
 git branch -D nome do branch
 
 
+recebendo alterações de outras pessoas, as que foram feita pela equipe ou qualquer
+pessoa que tem acesso ao projeto. trazendo os commit do repositorio remoto para o 
+local: git pull origin master
+
+
+
