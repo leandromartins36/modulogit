@@ -39,3 +39,9 @@ e o comando usado para enviar os dados para a nuvem do git é :
 git remote add origin https://github.com/leandromartins36/modulogit.git
 
 e este comando para enviar as modificações: git push -u origin master
+
+enviando as alterações ao github online depois do repositorio criado com o comando:
+git push origin master
+
+quando tiver um novo arquivo para ser endiado ao repositorio local deve usar o comando:
+git add -A
