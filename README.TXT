@@ -34,3 +34,6 @@ enviando arquivo para o repositorio no site do GIT atraves do tutorial
 
 comando para gerar a chave que é usada no site do github para envio dos arquivos 
 no repositorio: ssh-keygen -t  rsa -b4096 -C "leoinfosiste@yahoo.com.br"
+
+e o comando usado para enviar os dados para a nuvem do git é :
+git remote add origin https://github.com/leandromartins36/modulogit.git
